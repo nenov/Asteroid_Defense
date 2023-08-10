@@ -1,1 +1,1 @@
-A little task that I had to make on Unity
+A simple Asteroid Defense game developed in Unity.
